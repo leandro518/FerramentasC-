@@ -1,0 +1,7 @@
+C:\Users\leand\source\repos\LeitorArquivo\LeitorArquivo\bin\Debug\LeitorArquivo.exe.config
+C:\Users\leand\source\repos\LeitorArquivo\LeitorArquivo\bin\Debug\LeitorArquivo.exe
+C:\Users\leand\source\repos\LeitorArquivo\LeitorArquivo\bin\Debug\LeitorArquivo.pdb
+C:\Users\leand\source\repos\LeitorArquivo\LeitorArquivo\obj\Debug\LeitorArquivo.csprojAssemblyReference.cache
+C:\Users\leand\source\repos\LeitorArquivo\LeitorArquivo\obj\Debug\LeitorArquivo.csproj.CoreCompileInputs.cache
+C:\Users\leand\source\repos\LeitorArquivo\LeitorArquivo\obj\Debug\LeitorArquivo.exe
+C:\Users\leand\source\repos\LeitorArquivo\LeitorArquivo\obj\Debug\LeitorArquivo.pdb
